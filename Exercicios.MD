@@ -1,4 +1,4 @@
-1. crie um programa que escreva ola mundo em seu terminal.
+1. *crie um programa que escreva ola mundo em seu terminal.*
 2. Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 3. Crie um programa que leia dois números e mostre a soma entre eles.
 4. leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
