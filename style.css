@@ -1,0 +1,68 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url("https://www.ilpandeldiavolo.it/wp-content/uploads/2019/10/Immagine-Random-3.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    align-items: center;
+}
+#main {
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.877);
+    width: 100%;
+}
+#icone-linguagem {
+    color: blanchedalmond;
+    float: left;
+    margin: auto;
+    margin-top: 20pt;
+}
+.navegavel {
+    background-color: rgba(194, 201, 221, 0.363);
+    margin-top: -20px;
+    align-items: center;
+}
+#menu {
+    display: flex;
+    color: white;
+    font-size: 15pt;
+    font-family: Arial, sans-serif;
+    font-weight: 200;
+    text-decoration: none;
+}
+.itens {
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+}
+.itens:hover {
+    background-color: rgba(0, 0, 0, 0.637);
+    border-radius: 10px;
+    text-shadow: 1px 2px 3px white;
+}
+#logo {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    margin: auto;
+}
+#div-logo {
+    margin: auto;
+    background-color: rgba(0, 0, 255, 0);
+    width: 200px;
+    height: 100px;
+}
+.lista-itens {
+    color: rgba(255, 255, 255, 0.747);
+    font-size: 14pt;
+    padding: 10px;
+    border: solid 1px white;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 1px 2px 3px rgba(255, 255, 255, 0.466);
+}
+.ver {
+    width: 20px;
+    height: 20px;
+}
