@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+div {
+    margin: auto;
+    width: 800px;
+    height: max-content;
+}
+div embed {
+    width: 800px;
+    height: 1000px;
+}
