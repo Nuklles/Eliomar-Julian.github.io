@@ -38,12 +38,26 @@ div ol {
     width: 580pt;
     margin: auto;
 }
+.cont-code {
+    background-color: black;
+    border-radius: 10px;
+    width: 580pt;
+    margin: auto;
+    transition: 0.5s;
+}
+.cont-code iframe {
+    width: 580pt;
+}
 div ol .olho {
     filter: invert(1);
     width: 30px;
     height: 25px;
     margin: auto;
     text-align: center;
+}
+.cont-code:hover {
+    background-color: white;
+    transition: 1s cubic-bezier(0.895, 0.03, 0.685, 0.22);
 }
 div ol li {
     text-align: left;
