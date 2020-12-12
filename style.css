@@ -8,7 +8,7 @@ body {
 }
 #main {
     margin: 0px;
-    background-color: rgba(0, 0, 0, 0.877);
+    background-image: linear-gradient(to right, rgba(16, 2, 32, 0.966) 90%, rgba(251, 247, 255, 0.151));
     width: 100%;
 }
 #icone-linguagem {
@@ -16,6 +16,14 @@ body {
     float: left;
     margin: auto;
     margin-top: 20pt;
+}
+#logo-git {
+    width: 40px;
+    height: 40px;
+    margin-left: 20pt;
+    list-style: none;
+    text-decoration: none;
+    filter: invert(1);
 }
 .navegavel {
     background-color: rgba(194, 201, 221, 0.363);
@@ -50,17 +58,21 @@ body {
 #div-logo {
     margin: auto;
     background-color: rgba(0, 0, 255, 0);
-    width: 200px;
+    width: 300px;
     height: 100px;
 }
 .lista-itens {
-    color: rgba(255, 255, 255, 0.747);
+    color: rgba(255, 255, 255, 0.432);
     font-size: 14pt;
     padding: 10px;
-    border: solid 1px white;
+    border: solid 1px rgba(255, 255, 255, 0.637);
     border-radius: 10px;
     margin: 10px;
     box-shadow: 1px 2px 3px rgba(255, 255, 255, 0.466);
+}
+.lista-itens:hover {
+    color: rgb(15, 199, 199);
+    transition: 0.5s;
 }
 .ver {
     width: 20px;
