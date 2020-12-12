@@ -18,3 +18,16 @@
 18. Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 19. Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
 20. O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+21. Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+22. Crie um programa que leia o nome completo de uma pessoa e mostre: 
+- O nome com todas as letras maiúsculas e minúsculas.
+- Quantas letras ao todo (sem considerar espaços).
+- Quantas letras tem o primeiro nome.
+23. Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+24. Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO".
+25. Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+26. Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+27. Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+28. Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+29. Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+30. numero par ou impar.
