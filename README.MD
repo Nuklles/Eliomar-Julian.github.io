@@ -40,3 +40,4 @@
 38. Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 39. Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
 40. Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+41. crie uma barra de progresso

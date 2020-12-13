@@ -11,12 +11,6 @@ body {
     background-image: linear-gradient(to right, rgba(16, 2, 32, 0.966) 90%, rgba(3, 2, 3, 0.774));
     width: 100%;
 }
-#icone-linguagem {
-    color: blanchedalmond;
-    float: left;
-    margin: auto;
-    margin-top: 20pt;
-}
 #logo-git {
     width: 40px;
     height: 40px;
@@ -29,6 +23,9 @@ body {
     background-color: rgba(194, 201, 221, 0.363);
     margin-top: -20px;
     align-items: center;
+    position: relative;
+    width: 100%;
+    height: 100px;
 }
 #menu {
     display: flex;
@@ -38,6 +35,9 @@ body {
     font-weight: 200;
     text-decoration: none;
 }
+#lista-div {
+    margin-top: 100px;
+}
 .itens {
     padding: 10px;
     margin: 10px;
@@ -46,7 +46,7 @@ body {
 .itens:hover {
     background-color: rgba(0, 0, 0, 0.637);
     border-radius: 10px;
-    text-shadow: 1px 2px 3px white;
+    text-shadow: 1px 2px 3px rgba(255, 255, 255, 0.534);
 }
 #logo {
     text-align: center;
@@ -68,7 +68,7 @@ body {
     border: solid 1px rgba(255, 255, 255, 0.637);
     border-radius: 10px;
     margin: 10px;
-    box-shadow: 1px 2px 3px rgba(255, 255, 255, 0.466);
+    box-shadow: 1px 2px 3px rgba(255, 255, 255, 0.158);
 }
 .lista-itens:hover {
     color: rgb(15, 199, 199);
@@ -77,4 +77,61 @@ body {
 .ver {
     width: 20px;
     height: 20px;
+}
+#python-menu {
+    width: 100px;
+}
+#python-menu a {
+    color: white;
+    text-decoration: none;
+}
+#sub-python {
+    display: none;
+}
+#python-menu:hover #sub-python{
+    display: table;
+    list-style: none;
+    text-decoration: none;
+}
+#c-menu {
+    width: 100px;
+}
+#c-menu a {
+    color: white;
+    text-decoration: none;
+}
+#sub-c {
+    display: none;
+}
+#c-menu:hover #sub-c{
+    display: table;
+    list-style: none;
+    text-decoration: none;
+}
+#ruby-menu {
+    width: 100px;
+}
+#ruby-menu a {
+    color: white;
+    text-decoration: none;
+}
+#sub-ruby {
+    display: none;
+}
+#ruby-menu:hover #sub-ruby{
+    display: table;
+    list-style: none;
+    text-decoration: none;
+}
+.lista {
+    color: rgba(255, 255, 255, 0.432);
+    font-size: 14pt;
+    padding: 10px;
+    border: solid 1px rgba(255, 255, 255, 0.637);
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 1px 2px 3px rgba(255, 255, 255, 0.158);
+}
+.body {
+    background-color: black;
 }
