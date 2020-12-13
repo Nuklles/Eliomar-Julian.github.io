@@ -1,4 +1,3 @@
-1. crie um programa que escreva ola mundo em seu terminal.
 2. Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 3. Crie um programa que leia dois números e mostre a soma entre eles.
 4. leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
@@ -31,3 +30,13 @@
 28. Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 29. Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
 30. numero par ou impar.
+31. Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+32. Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+33. Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+34. Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+35. Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+36. Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+37. Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+38. Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+39. Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+40. Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
