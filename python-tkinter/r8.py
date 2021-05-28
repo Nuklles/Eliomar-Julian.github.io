@@ -57,13 +57,13 @@ class Console(Tk):
         stdout, stderr = await self.processo.communicate()
         if self.processo.returncode == 0:
             try:
-                saida = stdout.decode()
+                saida = stdout
                 self.entrada.insert(tk.END, saida)
             except UnicodeDecodeError as err:
                 self.entrada.insert(tk.END, str(err) + '\n')
         else:
             try:
-                saida = stderr.decode()
+                saida = stderr
                 self.entrada.insert(tk.END, saida)
             except UnicodeDecodeError as err:
                 self.entrada.insert(tk.END, str(err) + '\n')
